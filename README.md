@@ -1,7 +1,7 @@
 # Hi there, I'm Attila volunteer and programmer👋
 ## I'm volunteer at:
 
-<a target="_blank" href="https://wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" height="100em" width="20%"/></a>
+<a target="_blank" href="https://wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" height="100rem" width="20%"/></a>
 
 <a target="_blank" href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="20%"/></a>
 
@@ -10,8 +10,9 @@
 ## Tools
 
 <p float="left">
-<img src="icons/vim-icon.svg" alt="vim" width="50em"/>
-<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50em"/>
+<img src="icons/vim-icon.svg" alt="vim" width="50rem"/>
+<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50rem"/>
+<img src="icons/angular-icon.svg" alt="angular" width="50rem"/>
 </p>
 
 ## Programming languages
