@@ -7,7 +7,7 @@
 
 <a target="_blank" href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="20%"></a>
 
-## Skills
+## Programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10)](https://github.com/attilasomogyi/attilasomogyi)
 
