@@ -13,6 +13,7 @@
 <img src="icons/vim-icon.svg" alt="vim" width="50rem"/>
 <img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50rem"/>
 <img src="icons/angular-icon.svg" alt="angular" width="50rem"/>
+<img src="icons/node-js-icon.svg" alt="node js" width="50rem"/>
 </p>
 
 ## Programming languages
