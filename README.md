@@ -5,7 +5,12 @@
 
 <a target="_blank" href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="20%"/></a>
 
-<a target="_blank" href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="20%"></a>
+<a target="_blank" href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="20%"/></a>
+
+## Tools
+
+<img src="icons/vim-icon.svg" alt="vim" width="50em"/>
+<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50em"/>
 
 ## Programming languages
 
