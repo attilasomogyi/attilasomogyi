@@ -9,8 +9,10 @@
 
 ## Tools
 
+<p float="left">
 <img src="icons/vim-icon.svg" alt="vim" width="50em"/>
 <img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50em"/>
+</p>
 
 ## Programming languages
 
