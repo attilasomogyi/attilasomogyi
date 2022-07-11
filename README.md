@@ -20,6 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10)](https://github.com/attilasomogyi/attilasomogyi)
 
+## Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
