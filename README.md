@@ -21,6 +21,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10)](https://github.com/attilasomogyi/attilasomogyi)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![attilasomogyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=attilasomogyi&show_icons=true)
