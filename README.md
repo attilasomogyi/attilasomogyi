@@ -7,11 +7,16 @@
 
 <a target="_blank" href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="20%"/></a>
 
+## :hammer: Integrated development environment (IDE)
+
+<p float=left>
+<img src="icons/vim-icon.svg" alt="vim" width="50rem"/>
+<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50rem"/>
+</p>
+
 ## :hammer: Tools
 
 <p float="left">
-<img src="icons/vim-icon.svg" alt="vim" width="50rem"/>
-<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50rem"/>
 <img src="icons/angular-icon.svg" alt="angular" width="50rem"/>
 <img src="icons/node-js-icon.svg" alt="node js" width="50rem"/>
 </p>
