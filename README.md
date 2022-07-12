@@ -32,16 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10)](https://github.com/attilasomogyi/attilasomogyi)
 
-## :bar_chart: Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 0 secs
-
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
 ![attilasomogyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=attilasomogyi&show_icons=true)
