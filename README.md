@@ -18,7 +18,7 @@
 
 <p float=left>
 <img src="icons/bash-icon.svg" alt="vim" width="50rem"/>
-<img src="icons/visual-studio-code-icon.svg" alt="visual studio code" width="50rem"/>
+<img src="icons/powershell-icon.svg" alt="powershell" width="50rem"/>
 </p>
 
 ## :hammer: Tools
