@@ -30,8 +30,9 @@
 
 ## :hammer: Infrastructure as code (IaC)
 <p float="left">
-<img src="icons/ansible-icon.svg" alt="samba" width="50rem"/>
+<img src="icons/ansible-icon.svg" alt="ansible" width="50rem"/>
 </p>
+
 ## :floppy_disk: Network File Systems
 <p float="left">
 <img src="icons/samba-icon.svg" alt="samba" width="50rem"/>
