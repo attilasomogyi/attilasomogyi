@@ -28,6 +28,11 @@
 <img src="icons/node-js-icon.svg" alt="node js" width="50rem"/>
 </p>
 
+## :floppy_disk: Network File Systems
+<p float="left">
+<img src="icons/samba-icon.svg" alt="samba" width="50rem"/>
+</p>
+
 ## :scroll: Programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10)](https://github.com/attilasomogyi/attilasomogyi)
