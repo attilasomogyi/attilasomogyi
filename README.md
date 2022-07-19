@@ -28,9 +28,14 @@
 <img src="icons/node-js-icon.svg" alt="node js" width="50rem"/>
 </p>
 
+## :hammer: Infrastructure as code (IaC)
+<p float="left">
+<img src="icons/ansible-icon.svg" alt="samba" width="50rem"/>
+</p>
 ## :floppy_disk: Network File Systems
 <p float="left">
 <img src="icons/samba-icon.svg" alt="samba" width="50rem"/>
+NFS server, iSCSI
 </p>
 
 ## :scroll: Programming languages
