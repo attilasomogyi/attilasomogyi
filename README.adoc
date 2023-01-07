@@ -1,16 +1,16 @@
-= Hi there, I’m Attila volunteer and programmer👋
-
-== I’m volunteer at
+= Hi There, I’m Attila Volunteer, Activist And Programmer👋
 
 ++++
-<p align="left">
+<p align="center">
 <a href="https://www.wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" width="100rem"></a>
+</p>
+<p align="center">
 <a href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="200rem"></a>
 <a href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="200rem"></a>
 </p>
 ++++
 
-== Integrated development environment (IDE)
+== Integrated Development Environment (IDE)
 ++++
 <p align="left">
 <a href="https://code.visualstudio.com/"><img src="icons/visual-studio-code-icon.svg" alt="Visual Studio Code" width="50rem"></a>
@@ -36,7 +36,7 @@
 </p>
 ++++
 
-=== Infrastructure as code (IaC)
+=== Infrastructure As Code (IaC)
 
 ++++
 <p align="left">
@@ -53,7 +53,7 @@ NFS server, iSCSI
 </p>
 ++++
 
-=== Programming languages
+=== Programming Languages
 
 https://github.com/attilasomogyi/attilasomogyi[image:https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10[Top
 Langs]]
