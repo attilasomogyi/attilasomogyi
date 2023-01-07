@@ -2,57 +2,56 @@
 
 == I’m volunteer at
 
-[.float-group]
---
-[.left]
-image::logos/wwf-logo.svg[WWF, link=https://www.wwf.hu/, width=100rem]
-image::logos/greenpeace-logo.svg[Greenpeace, link=https://www.greenpeace.org/hungary/, width=100rem]
-image::logos/hungarian-red-cross.svg[Hungarian Red Cross, link=https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/, width=100rem]
---
+++++
+<p align="left">
+<a href="https://www.wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" width="100rem"></a>
+<a href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="200rem"></a>
+<a href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="200rem"></a>
+</p>
+++++
 
 == Integrated development environment (IDE)
-
-[.float-group]
---
-[.left]
-image::icons/visual-studio-code-icon.svg[Visual Studio Code, link=https://code.visualstudio.com/, width=50rem]
-image::icons/vim-icon.svg[Vim, link=https://www.vim.org/, width=50rem]
---
+++++
+<p align="left">
+<a href="https://code.visualstudio.com/"><img src="icons/visual-studio-code-icon.svg" alt="Visual Studio Code" width="50rem"></a>
+<a href="https://www.vim.org/"><img src="icons/vim-icon.svg" alt="Vim" width="50rem"></a>
+</p>
+++++
 
 == Shells
 
-[.float-group]
---
-[.left]
-image::icons/bash-icon.svg[Bash, link=https://www.gnu.org/software/bash/, width=50rem]
-image::icons/powershell-icon.svg[PowerShell, link=https://docs.microsoft.com/en-us/powershell/, width=50rem]
---
+++++
+<p align="left">
+<a href="https://www.gnu.org/software/bash/"><img src="icons/bash-icon.svg" alt="Bash" width="60rem"></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img src="icons/powershell-icon.svg" alt="PowerShell" width="60rem"></a>
+</p>
+++++
 
 == Tools
 
-[.float-group]
---
-[.left] 
-image::icons/angular-icon.svg[Angular, link=https://angular.io/, width=50rem]
-image::icons/node-js-icon.svg[Node.js, link=https://nodejs.org/en/, width=50rem]
---
+++++
+<p align="left">
+<a href="https://angular.io/"><img src="icons/angular-icon.svg" alt="Angular" width="60rem"></a>
+<a href="https://nodejs.org/en/"><img src="icons/node-js-icon.svg" alt="Node.js" width="60rem"></a>
+</p>
+++++
 
 === Infrastructure as code (IaC)
 
-[.float-group]
---
-[.left]
-image::icons/ansible-icon.svg[Ansible, link=https://www.ansible.com/, width=50rem]
---
+++++
+<p align="left">
+<a href="https://www.ansible.com/"><img src="icons/ansible-icon.svg" alt="Ansible" width="60rem"></a>
+</p>
+++++
 
 === Network File Systems
 
-[.float-group]
---
-[.left]
-image::icons/samba-icon.svg[Samba, link=https://www.samba.org/, width=50rem]
+++++
+<p align="left">
+<a href="https://www.samba.org/"><img src="icons/samba-icon.svg" alt="Samba" width="60rem"></a>
 NFS server, iSCSI
---
+</p>
+++++
 
 === Programming languages
 
