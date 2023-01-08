@@ -1,57 +1,46 @@
+:toc:
 = Hi There, I’m Attila Volunteer, Activist And Programmer👋
 
-|===
-|Volunteer and Activist Tasks
+== Volunteer and Activist
 
-|WWF Hungary
-|Habitat For Humanity Hungary
-|Greenpeace Hungary
-|Hungarian Red Cross
-|===
+* WWF Hungary
+* Habitat For Humanity Hungary
+* Greenpeace Hungary
+* Hungarian Red Cross
 
-|===
-|Integrated Development Environment (IDE)
+== Hard Skills
 
-|Visual Studio Code
-|Vim
-|===
+=== Integrated Development Environment (IDE)
 
-|===
-|Shells
+* Visual Studio Code
+* Vim
 
-|Bash
-|PowerShell
-|===
+=== Shells
 
-|===
-|Tools
+* Bash
+* PowerShell
 
-|Angular
-|Node.js
-|===
+=== Tools
 
-|===
-|Infrastructure As Code (IaC)
+* Angular
+* Node.js
 
-|Ansible
-|===
+=== Infrastructure As Code (IaC)
 
-|===
-|Network File Systems
+* Ansible
 
-|Samba
-|NFS server
-|iSCSI
-|===
+=== Network File Systems
 
-|===
-|Virtualization
+* Samba
+* NFS server
+* iSCSI
 
-|VirtualBox
-|KVM
-|===
+=== Virtualization
 
-== Programming Languages
+* VirtualBox
+* KVM
+
+=== Programming Languages
 
 https://github.com/attilasomogyi/attilasomogyi[image:https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10[Top
 Langs]]
