@@ -1,60 +1,57 @@
 = Hi There, I’m Attila Volunteer, Activist And Programmer👋
 
-++++
-<p align="center">
-<a href="https://www.wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" width="100rem"></a>
-<a href="https://www.habitat.hu/"><img src="logos/habitat-for-humanity-logo.svg" alt="Habitat For Humanity" width="450rem"></a>
-</p>
-<p align="center">
-<a href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="450rem"></a>
-<a href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="450rem"></a>
-</p>
-++++
+|===
+|Volunteer and Activist Tasks
 
-== Integrated Development Environment (IDE)
-++++
-<p align="left">
-<a href="https://code.visualstudio.com/"><img src="icons/visual-studio-code-icon.svg" alt="Visual Studio Code" width="50rem"></a>
-<a href="https://www.vim.org/"><img src="icons/vim-icon.svg" alt="Vim" width="50rem"></a>
-</p>
-++++
+|WWF Hungary
+|Habitat For Humanity Hungary
+|Greenpeace Hungary
+|Hungarian Red Cross
+|===
 
-== Shells
+|===
+|Integrated Development Environment (IDE)
 
-++++
-<p align="left">
-<a href="https://www.gnu.org/software/bash/"><img src="icons/bash-icon.svg" alt="Bash" width="60rem"></a>
-<a href="https://learn.microsoft.com/en-us/powershell/"><img src="icons/powershell-icon.svg" alt="PowerShell" width="60rem"></a>
-</p>
-++++
+|Visual Studio Code
+|Vim
+|===
 
-== Tools
+|===
+|Shells
 
-++++
-<p align="left">
-<a href="https://angular.io/"><img src="icons/angular-icon.svg" alt="Angular" width="60rem"></a>
-<a href="https://nodejs.org/en/"><img src="icons/node-js-icon.svg" alt="Node.js" width="60rem"></a>
-</p>
-++++
+|Bash
+|PowerShell
+|===
 
-=== Infrastructure As Code (IaC)
+|===
+|Tools
 
-++++
-<p align="left">
-<a href="https://www.ansible.com/"><img src="icons/ansible-icon.svg" alt="Ansible" width="60rem"></a>
-</p>
-++++
+|Angular
+|Node.js
+|===
 
-=== Network File Systems
+|===
+|Infrastructure As Code (IaC)
 
-++++
-<p align="left">
-<a href="https://www.samba.org/"><img src="icons/samba-icon.svg" alt="Samba" width="60rem"></a>
-NFS server, iSCSI
-</p>
-++++
+|Ansible
+|===
 
-=== Programming Languages
+|===
+|Network File Systems
+
+|Samba
+|NFS server
+|iSCSI
+|===
+
+|===
+|Virtualization
+
+|VirtualBox
+|KVM
+|===
+
+== Programming Languages
 
 https://github.com/attilasomogyi/attilasomogyi[image:https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10[Top
 Langs]]
