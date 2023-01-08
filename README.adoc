@@ -1,6 +1,6 @@
 
 = Hi There, I’m Attila Volunteer, Activist And Programmer👋
-Attila Zsolt Somogyi
+:author: Attila Zsolt Somogyi
 :description: Resume of Attila Zsolt Somogyi
 :sectanchors: 
 :url-repo: https://github.com/attilasomogyi
