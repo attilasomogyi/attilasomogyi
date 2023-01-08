@@ -3,10 +3,11 @@
 ++++
 <p align="center">
 <a href="https://www.wwf.hu/"><img src="logos/wwf-logo.svg" alt="WWF" width="100rem"></a>
+<a href="https://www.habitat.hu/"><img src="logos/habitat-for-humanity-logo.svg" alt="Habitat For Humanity" width="450rem"></a>
 </p>
 <p align="center">
-<a href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="200rem"></a>
-<a href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="200rem"></a>
+<a href="https://www.greenpeace.org/hungary/"><img src="logos/greenpeace-logo.svg" alt="Greenpeace" width="450rem"></a>
+<a href="https://voroskereszt.hu/en/about-us/vision-of-the-hungarian-red-cross/"><img src="logos/hungarian-red-cross.svg" alt="Hungarian Red Cross" width="450rem"></a>
 </p>
 ++++
 
