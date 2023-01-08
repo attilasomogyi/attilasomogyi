@@ -1,7 +1,12 @@
-:toc:
-= Hi There, I’m Attila Volunteer, Activist And Programmer👋
 
-== Volunteer and Activist
+= Hi There, I’m Attila Volunteer, Activist And Programmer👋
+Attila Zsolt Somogyi
+:description: Resume of Attila Zsolt Somogyi
+:sectanchors: 
+:url-repo: https://github.com/attilasomogyi
+:toc:
+
+== Volunteer And Activist Skills
 
 * WWF Hungary
 * Habitat For Humanity Hungary
@@ -32,7 +37,7 @@
 === Network File Systems
 
 * Samba
-* NFS server
+* NFS Server
 * iSCSI
 
 === Virtualization
