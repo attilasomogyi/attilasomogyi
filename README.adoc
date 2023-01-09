@@ -13,6 +13,24 @@
 * Greenpeace Hungary
 * Hungarian Red Cross
 
+== Soft Skills
+
+* Communication
+* Teamwork
+* Problem-solving
+* Time management
+* Stress management
+* Adaptability
+* Conflict management
+* Leadership
+* Creativity
+* Resourcefulness
+* Persuasion
+* Openness to criticism
+* Accountability
+* Trust
+* Focus on outcome
+
 == Hard Skills
 
 === Integrated Development Environment (IDE)
