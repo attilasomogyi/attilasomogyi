@@ -71,7 +71,9 @@
 * KVM
 
 === Containerization
+
 * Docker
+
 === Programming Languages
 
 https://github.com/attilasomogyi/attilasomogyi[image:https://github-readme-stats.vercel.app/api/top-langs/?username=attilasomogyi&langs_count=10[Top
