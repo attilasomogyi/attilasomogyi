@@ -55,7 +55,7 @@
 * Angular
 * Node.js
 
-=== Infrastructure As Code (IaC)
+=== Configuration Management
 
 * Ansible
 
@@ -73,6 +73,11 @@
 === Containerization
 
 * Docker
+
+=== Cloud
+
+* AWS
+* Azure
 
 === Programming Languages
 
