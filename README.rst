@@ -1,6 +1,7 @@
 Hi There, I’m Attila Volunteer, Activist And Programmer👋
 =========================================================
 .. sectnum::
+   :suffix: .
 .. contents:: Table of Contents
 
 Volunteer And Activist Skills
